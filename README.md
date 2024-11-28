@@ -9,7 +9,7 @@ Welcome to **Darkness**, a thrilling Unity 3D game inspired by the eerie atmosph
 To play the game, follow these simple steps:
 1. Clone this repository to your local machine:  
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/JC-Dulos10/Darkness.git
    ```
 2. Navigate to the downloaded folder. 📂  
 3. Run the **Darkness.exe** file to start the game. 🖥️
